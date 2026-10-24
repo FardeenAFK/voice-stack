@@ -1,0 +1,6 @@
+librosa
+numpy
+faster-whisper
+num2words
+# direct backend only (separate venv, see README):
+# chatterbox-tts
